@@ -57,3 +57,11 @@ function bingo(ticket, win){
  }
 }
 ```
+
+## Courses:
+---
+
+- HTML and CSS Tutorials on the [w3schools](https://my-learning.w3schools.com/) (in progress);
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress);
+- JavaScript in [Codewars.com](https://www.codewars.com/users/PiachkoAliaksey/badges/small) (in progress);
+- Successfully finish [Course «JavaScript/Front-end. Stage 0»](https://app.rs.school/certificate/hcr9c8m4) in RS School .
