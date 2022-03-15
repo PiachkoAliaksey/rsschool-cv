@@ -22,3 +22,10 @@ I am eager to thoroughly study a discipline that is new to me, relying on a huge
 
 
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
+
+## Skills and Proficiency:
+---
+
++ **HTML5**, **CSS3**;
++ **Git**, **GitHub**;
++ **JavaScript** (5kuy in Codewars).
