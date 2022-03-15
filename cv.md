@@ -29,3 +29,31 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 + **HTML5**, **CSS3**;
 + **Git**, **GitHub**;
 + **JavaScript** (5kuy in Codewars).
+
+## Code example:
+
+Lottery Ticket
+
+Given a lottery ticket (ticket), represented by an array of 2-value arrays, you must find out if you've won the jackpot.
+
+
+```
+function bingo(ticket, win){
+  let sum=0;
+                                             
+  ticket.forEach((val)=>{
+  for(let i=0;i<val[0].length;i++){
+  if(val[0].charCodeAt(i)===val[1]){
+   sum++;
+   break;
+    }
+    }
+      })
+                                            
+ if(sum>=win){
+ return("Winner!")
+ }else{
+ return("Loser!")
+ }
+}
+```
