@@ -65,3 +65,10 @@ function bingo(ticket, win){
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress);
 - JavaScript in [Codewars.com](https://www.codewars.com/users/PiachkoAliaksey/badges/small) (in progress);
 - Successfully finish [Course «JavaScript/Front-end. Stage 0»](https://app.rs.school/certificate/hcr9c8m4) in RS School .
+
+## Languages:
+---
+
+* English - Pre-Intermediate;
+* Russian - Native;
+* French - Intermediate.
