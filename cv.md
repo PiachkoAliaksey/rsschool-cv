@@ -18,7 +18,11 @@ I am interested in web development because I have always wondered what a website
 
 I am eager to thoroughly study a discipline that is new to me, relying on a huge amount of quality material on the Internet for self-training, as well as the course of the developer community. I am easy to learn and ready to learn new things, and then apply the new knowledge gained in practice, improving the quality of web sites.
 
- Graduated from the Belarusian National Technical University with a degree in power engineering. Graduated from the Center for Franco-Belarusian Studies at the French Embassy in Belarus with a degree in General European Law. Studied DevOps basics in EPAM online courses. Successfully finish JS/FE Preschool 2022 in Rolling Scopes School.
+Graduated from the Belarusian National Technical University with a degree in power engineering.
+Graduated from the Center for Franco-Belarusian Studies at the French Embassy in Belarus with a
+degree in General European Law. Studied DevOps basics in EPAM online courses. Successfully
+finish JAVASCRIPT/FRONTEND 2022Q1(JAVASCRIPT) 2022 in Rolling Scopes School. I study myself in
+depth framework React.
 
 
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
