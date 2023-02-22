@@ -437,7 +437,7 @@ header {
 .main__list li {
   margin-left: 15px;
   padding: 0;
-  padding-left: 10px;
+  padding: 0 5px 0 10px;
 }
 
 
