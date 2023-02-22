@@ -269,8 +269,12 @@ header {
 .container .left_side .contacts__telegram,
 .container .left_side .contacts__e-mail {
   position: relative;
+  display: flex;
   -webkit-transition: 0.5s all;
   transition: 0.5s all;
+}
+.link_contact_item{
+  padding-left: 5px;
 }
 
 .container .left_side .contacts__phone::before,
@@ -292,7 +296,7 @@ header {
 .container .left_side .contacts__phone:hover::before,
 .container .left_side .contacts__telegram:hover::before,
 .container .left_side .contacts__e-mail:hover::before {
-  width: 200px;
+  width: 250px;
 }
 
 
